@@ -36,4 +36,3 @@ console.log(a1/b1); //Infinity
 const a2 = 0;
 const b2 = 0;
 console.log(a2/b2); //NaN
-
